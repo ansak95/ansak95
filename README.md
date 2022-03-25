@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- Presentation -->
 
-<!--
-**ansak95/ansak95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, my name is Anass Akrim !
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a   href="https://www.linkedin.com/in/anass-akrim/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anass-akrim/" alt="anassakrim"/></a>
+</p>
+
+I am actually a **3rd year PhD Student** in Applied Mathematics and Predictive Maintenance at Institut Clément Ader and the Complex Systems Engineering Department (DISC) of ISAE-SUPAERO, Toulouse, France. My thesis is entitled : "Prediction of the remaining useful life of aircraft components with deep learning methods"
+
+Currently, my research focuses in the fields of Prognostics and Health Management (PHM), Artificial Intelligence and Deep Learning/Machine Learning.
+
+**🚀 I'm interested :**
+
+- Time Series Forecasting
+- Anomaly Detection/Cybersecurity
+- Transfer Learning/Self-Supervised Learning 
+- Uncertainty Quantification
+- Interpretability
+---
