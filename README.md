@@ -16,7 +16,6 @@ Currently, my research focuses in the fields of Prognostics and Health Managemen
 
 - Time Series Forecasting
 - Transfer Learning/Self-Supervised Learning 
-- Uncertainty Quantification
-- Anomaly Detection/Cybersecurity
-- Interpretability
+- Anomaly Detection/Cybersecurity/Blockchains
+- Interpretability/Uncertainty Quantification
 ---
