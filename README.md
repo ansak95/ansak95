@@ -8,9 +8,10 @@
    <a   href="https://www.linkedin.com/in/anass-akrim/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anass-akrim/" alt="anassakrim"/></a>
 </p>
 
-I am a Data Scientist and AI/ML/DL research scientist with a Ph.D. in AI/Applied Mathematics/Computer Science from Institut Clément Ader and ISAE-SUPAERO in Toulouse, France. My thesis focused on using deep learning methods to predict the remaining useful life of aircraft components.
+I'm a Data Scientist and AI/ML/DL researcher with a Ph.D. in AI/Applied Maths/Computer Science from Institut Clément Ader and the prestigious french engineering school ISAE-SUPAERO, Toulouse, France. My Ph.D. journey was all about delving into the world of AI and deep learning as a means of predicting how long aircraft components can remain in service.
 
-I am passionate about using data and AI to drive innovation and business value, and I am always seeking new opportunities to apply my skills and knowledge to real-world problems.
+I'm passionate about turning data and AI into real innovation and added value. I'm always on the lookout for new ways to apply my knowledge to real-world puzzles.![image](https://github.com/ansak95/ansak95/assets/70719897/944a9015-2851-494c-b7a3-24d17b967df5)
+
 
 **🚀 I'm interested :**
 
