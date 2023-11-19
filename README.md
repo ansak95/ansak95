@@ -16,10 +16,15 @@ I'm passionate about turning data and AI into real innovation and added value. I
 **🚀 Areas of Interest**
 
 • **Time Series Forecasting**: Delving into patterns and predictions in time-based data.
+
 • **Computer Vision & NLP**: Exploring how machines can interpret and understand visual and linguistic information.
+
 • **Anomaly Detection and/or Cybersecurity**: Identifying unusual patterns that do not conform to expected behavior.
+
 • **Data Scarcity**: Tackling challenges in limited data situations.
+
 • **Interpretability**: Making AI models more understandable.
+
 • **Uncertainty Quantification**: Assessing the uncertainty in AI predictions and decisions.
 
 ---
