@@ -13,9 +13,13 @@ I'm a Data Scientist and AI/ML/DL researcher with a Ph.D. in AI/Applied Maths/Co
 I'm passionate about turning data and AI into real innovation and added value. I'm always on the lookout for new ways to apply my knowledge to real-world puzzles.![image](https://github.com/ansak95/ansak95/assets/70719897/944a9015-2851-494c-b7a3-24d17b967df5)
 
 
-**🚀 I'm interested :**
+**🚀 Areas of Interest**
 
-- Time Series Forecasting/Computer Vision/NLP
-- Anomaly Detection/Cybersecurity/Blockchains
-- Data Scarcity/Interpretability/Uncertainty Quantification
+
+Time Series Forecasting: Delving into patterns and predictions in time-based data.
+Computer Vision & NLP: Exploring how machines can interpret and understand visual and linguistic information.
+Anomaly Detection and/or Cybersecurity: Identifying unusual patterns that do not conform to expected behavior.
+Data Scarcity: Tackling challenges in limited data situations.
+Interpretability: Making AI models more understandable.
+Uncertainty Quantification: Assessing the uncertainty in AI predictions and decisions.
 ---
